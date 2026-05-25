@@ -30,6 +30,5 @@ Thanatcha Chomnak — [LinkedIn](https://www.linkedin.com/in/thanatcha-chomnak-6
 
 * [SegFormer — HuggingFace](https://huggingface.co/nvidia/segformer-b2-finetuned-ade-512-512)
 * [Albumentations](https://albumentations.ai)
-* Capstone advisor: Assoc. Prof. Rajalida Lipikorn, Chulalongkorn University
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
